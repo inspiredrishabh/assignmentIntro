@@ -27,7 +27,7 @@ This project uses:
 1. Clone the repository
 
 ```
-git clone <repository-url>
+git clone https://github.com/inspiredrishabh/assignmentIntro
 cd assignmentIntro
 ```
 
